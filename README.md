@@ -23,7 +23,7 @@ from home page ----> if administrator click on (Modify Student), this panel will
 
 ![4](https://user-images.githubusercontent.com/103201013/209267909-80590614-da51-402a-a7d6-e630a482ecd4.png)
 
-in it, administartor will enter student id an click ok.
+in it, administartor will enter student id and click ok.
 after that this panel will open :
 
 ![5](https://user-images.githubusercontent.com/103201013/209268094-f6ab9c9e-3c2e-43c3-941c-6d7e2d252096.png)
@@ -34,7 +34,7 @@ from home page ----> if administrator click on (Show Student Data), this panel w
 
 ![4](https://user-images.githubusercontent.com/103201013/209267909-80590614-da51-402a-a7d6-e630a482ecd4.png)
 
-in it, administartor will enter student id an click ok.
+in it, administartor will enter student id and click ok.
 after that this panel will open :
 
 ![last](https://user-images.githubusercontent.com/103201013/209268428-a23da58b-61a6-4f87-bc78-939665621056.png)
