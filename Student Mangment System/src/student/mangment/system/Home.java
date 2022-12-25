@@ -132,14 +132,14 @@ public class Home extends javax.swing.JFrame {
 
     private void btn_showstudentdataActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_showstudentdataActionPerformed
         setVisible(false);
-        new ChooseStudent().setVisible(true); 
+        new ChooseStudentForShowData().setVisible(true); 
 
         // TODO add your handling code here:
     }//GEN-LAST:event_btn_showstudentdataActionPerformed
 
     private void btn_modifystudentActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_modifystudentActionPerformed
        setVisible(false);
-        new ModifyStudentData().setVisible(true);
+        new ChooseStudentForModifay().setVisible(true);
        
     }//GEN-LAST:event_btn_modifystudentActionPerformed
 
